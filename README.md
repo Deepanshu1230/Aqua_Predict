@@ -33,3 +33,6 @@ Clone the repository:
 ```bash
 git clone https://github.com/your-username/aqua-predict.git
 cd aqua-predict
+pnpm install
+pnpm run dev
+
